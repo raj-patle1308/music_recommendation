@@ -41,7 +41,7 @@ It's best practice to use a virtual environment to manage dependencies. You can 
 ### 3. Install Dependencies
 With your virtual environment activated, install all required libraries:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### 4. Run the Application
